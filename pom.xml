@@ -20,7 +20,7 @@
     <!-- ✅ Nexus deployment settings -->
     <distributionManagement>
         <repository>
-            <id>nexus</id>
+            <id>nexuscredentials</id>
             <url>http://13.49.18.223:8081/repository/mymaven/</url>
         </repository>
         <snapshotRepository>
